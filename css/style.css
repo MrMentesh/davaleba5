@@ -11,6 +11,7 @@ h1{
     vertical-align: middle;
     font-size: 70px;
     margin-right: 300px;
+    color: #36413e;
 }
 nav{
     display: inline-block;
@@ -18,5 +19,33 @@ nav{
 }
 li{
     display: inline-block;
-    margin-right: 50px;
+    margin-right: 80px;
+    color: #7f7f7f;
+}
+section{
+    width: 1280px;
+    margin: 0 auto;
+    padding-top: 174px;
+    padding-right: 110px;
+    padding-bottom: 90px;
+    padding-left: 95px;
+    background-color: #306b34;
+}
+div{
+    display: inline-block;
+    width: 307px;
+    height: 380px;
+    margin-top: 14px;
+    margin-left: 89px;
+    vertical-align: top;
+}
+h2{
+    font-size: 40px;
+    color: #19381f;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    margin-top: 59px;
 }
