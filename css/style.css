@@ -1,0 +1,22 @@
+header{
+    width: 1200px;
+    padding-top: 40px;
+    padding-right: 66px;
+    padding-bottom: 55px;
+    padding-left: 44px;
+    margin: 0 auto;
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 70px;
+    margin-right: 300px;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+    margin-right: 50px;
+}
