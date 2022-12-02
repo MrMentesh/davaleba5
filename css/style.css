@@ -43,9 +43,31 @@ h2{
     font-size: 40px;
     color: #19381f;
 }
-p{
-    font-size: 20px;
-    font-style: italic;
-    color: white;
+.text1{
     margin-top: 59px;
+}
+article{
+    margin: 0 auto;
+    padding-left: 184px;
+    padding-right: 137px;
+}
+h3{
+    font-size: 40px;
+    font-style: italic;
+    margin-top: 88px;
+    margin-left: 432px;
+    color: #36413e;
+    display: inline-block;
+}
+.text2{
+    margin-top: 72px;
+    margin-left: 89px;
+}
+button{
+    margin-top: 69px;
+    margin-left: 495px;
+    width: 148px;
+    height: 48px;
+    background-color: #36413e; 
+    color: white;  
 }
