@@ -1,9 +1,6 @@
 header{
-    width: 1200px;
-    padding-top: 40px;
-    padding-right: 66px;
-    padding-bottom: 55px;
-    padding-left: 44px;
+    width: 1280px;
+    padding: 40px 66px 55px 44px;
     margin: 0 auto;
 }
 h1{
@@ -25,10 +22,7 @@ li{
 section{
     width: 1280px;
     margin: 0 auto;
-    padding-top: 174px;
-    padding-right: 110px;
-    padding-bottom: 90px;
-    padding-left: 95px;
+    padding: 174px 110px 90px 95px;
     background-color: #306b34;
 }
 div{
@@ -48,6 +42,7 @@ h2{
 }
 article{
     margin: 0 auto;
+    width: 1280px;
     padding-left: 184px;
     padding-right: 137px;
 }
@@ -70,4 +65,21 @@ button{
     height: 48px;
     background-color: #36413e; 
     color: white;  
+}
+footer{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 33px;
+    background-color: #306b34;
+    padding: 25px 109px 27px 74px;
+}
+.footer img{
+    vertical-align: middle;
+}
+.copyright{
+    display: inline-block;
+    margin-left: 906px;
+    vertical-align: middle;
+    color: #f4f4f1;
+    font-size: 12px;
 }
